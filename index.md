@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Victorious Life Church
-permalink: /
 ---
 
 # Hello from Victorious Life Church
