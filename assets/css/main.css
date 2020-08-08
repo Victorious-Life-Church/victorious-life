@@ -4,6 +4,23 @@
   -webkit-box-shadow: none;
 }
 
+nav {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav li {
+  display: inline;
+}
+
+nav a {
+  color: #fff;
+}
+
 .left {
   float: left;
   padding-right: 10px;
