@@ -1,7 +1,10 @@
-.logo {
-  max-height: 200px;
+img {
   box-shadow: none;
   -webkit-box-shadow: none;
+}
+
+.logo {
+  max-height: 200px;
 }
 
 nav {
@@ -34,9 +37,9 @@ h2 {
 
 #slides {
   position: relative;
-  height: 150px;
+  height: 250px;
   padding: 0px;
-  margin: 0px;
+  margin: 0 0 20px 0;
   list-style-type: none;
 }
 
