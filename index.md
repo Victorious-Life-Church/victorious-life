@@ -13,11 +13,11 @@ A group of ordinary people pursuing an extraordinary God, because of something w
 
 <ul id="slides">
     <li class="slide showing"><img src="{{ '/images/1.jpg' | relative_url }}" /></li>
-    <li class="slide"><img src="{{ '/images/1.jpg' | relative_url }}" /></li>
-    <li class="slide"><img src="{{ '/images/1.jpg' | relative_url }}" /></li>
-    <li class="slide"><img src="{{ '/images/1.jpg' | relative_url }}" /></li>
-    <li class="slide"><img src="{{ '/images/1.jpg' | relative_url }}" /></li>
-    <li class="slide"><img src="{{ '/images/1.jpg' | relative_url }}" /></li>
+    <li class="slide"><img src="{{ '/images/2.jpg' | relative_url }}" /></li>
+    <li class="slide"><img src="{{ '/images/3.jpg' | relative_url }}" /></li>
+    <li class="slide"><img src="{{ '/images/4.jpg' | relative_url }}" /></li>
+    <li class="slide"><img src="{{ '/images/5.jpg' | relative_url }}" /></li>
+    <li class="slide"><img src="{{ '/images/6.jpg' | relative_url }}" /></li>
 </ul>
 
 ## What a typical service might look like:
