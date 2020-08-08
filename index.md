@@ -13,7 +13,9 @@ A group of ordinary people pursuing an extraordinary God, because of something w
 
 ## What a typical service might look like:
 
-life groupsWe have simple but powerful worship where we enjoy making God smile. Our pastor's wife usually shares some adventure of the past week and a few prayer points to focus on. We encourage generosity in giving and faithfulness in His tithing. We have monthly communion to remember the life of Jesus. Our pastor shares practical, applicable, and transparent messages that will challenge us to pursue God. At the end of each service there is an opportunity for prayer. We usually end with a few stories in the lobby between meeting new friends. Hope you get a chance to experience this wonderful church.
+![Life groups](/images/lifegroups.jpg)
+
+We have simple but powerful worship where we enjoy making God smile. Our pastor's wife usually shares some adventure of the past week and a few prayer points to focus on. We encourage generosity in giving and faithfulness in His tithing. We have monthly communion to remember the life of Jesus. Our pastor shares practical, applicable, and transparent messages that will challenge us to pursue God. At the end of each service there is an opportunity for prayer. We usually end with a few stories in the lobby between meeting new friends. Hope you get a chance to experience this wonderful church.
 
 ## Service Times
 
