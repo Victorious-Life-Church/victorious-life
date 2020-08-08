@@ -19,7 +19,7 @@ img {
 }
 
 nav {
-  max-width: 640px;
+  max-width: 1024px;
   margin: 0 auto;
   padding: 20px 10px;
 }
@@ -37,6 +37,10 @@ nav li {
 nav a {
   color: #fff;
   padding-right: 10px;
+}
+
+.inner {
+  max-width: 1024px;
 }
 
 .left {
