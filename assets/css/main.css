@@ -10,12 +10,13 @@ img {
 nav {
   max-width: 640px;
   margin: 0 auto;
+  padding: 20px 10px;
 }
 
 nav ul {
   list-style-type: none;
   padding: 0;
-  margin: 10px 0;
+  margin: 0;
 }
 
 nav li {
