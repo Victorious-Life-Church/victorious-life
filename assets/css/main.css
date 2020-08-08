@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+#footer_wrap {
+  color: #fff;
+}
+
 img {
   box-shadow: none;
   -webkit-box-shadow: none;
