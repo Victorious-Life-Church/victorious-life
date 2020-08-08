@@ -12,12 +12,12 @@ We are glad that you clicked just the right buttons to get here. Hope this page 
 A group of ordinary people pursuing an extraordinary God, because of something wonderful His son Jesus did. We enjoy each other, we laugh, sometimes we cry, but we always look for God to be involved in our lives.
 
 <ul id="slides">
-    <li class="slide showing"><img src="/images/1.jpg" /></li>
-    <li class="slide"><img src="/images/2.jpg" /></li>
-    <li class="slide"><img src="/images/3.jpg" /></li>
-    <li class="slide"><img src="/images/4.jpg" /></li>
-    <li class="slide"><img src="/images/5.jpg" /></li>
-    <li class="slide"><img src="/images/6.jpg" /></li>
+    <li class="slide showing"><img src="{{ '/images/1.jpg' | relative_url }}" /></li>
+    <li class="slide"><img src="{{ '/images/1.jpg' | relative_url }}" /></li>
+    <li class="slide"><img src="{{ '/images/1.jpg' | relative_url }}" /></li>
+    <li class="slide"><img src="{{ '/images/1.jpg' | relative_url }}" /></li>
+    <li class="slide"><img src="{{ '/images/1.jpg' | relative_url }}" /></li>
+    <li class="slide"><img src="{{ '/images/1.jpg' | relative_url }}" /></li>
 </ul>
 
 ## What a typical service might look like:
@@ -31,7 +31,8 @@ We have simple but powerful worship where we enjoy making God smile. Our pastor'
 This Sunday Morning 9:30 am We will be meeting back inside with extra distancing, Also we will have outside seating for those that would be more comfortable outside
 
 Also we will broadcasting our services live on:
-<a href="http://www.facebook.com/vlcpo" target="_blank"><img src="images/facebook1.jpg"></a>
+
+<p><a href="http://www.facebook.com/vlcpo" target="_blank"><img src="images/facebook1.jpg"></a></p>
 
 ## Future Weeks
 

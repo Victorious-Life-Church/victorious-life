@@ -4,6 +4,15 @@
   -webkit-box-shadow: none;
 }
 
+.left {
+  float: left;
+  padding-right: 10px;
+}
+
+h2 {
+  clear: both;
+}
+
 #slides {
   position: relative;
   height: 150px;
