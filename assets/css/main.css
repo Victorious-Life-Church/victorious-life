@@ -68,6 +68,8 @@ h2 {
   height: 100%;
   opacity: 0;
   z-index: 1;
+  display: flex;
+  justify-content: center;
 
   -webkit-transition: opacity 1s;
   -moz-transition: opacity 1s;
