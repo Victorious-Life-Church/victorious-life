@@ -1,5 +1,11 @@
 #header_wrap {
   text-align: center;
+  padding: 0;
+  background: #fff;
+}
+
+#header_wrap .inner {
+  padding: 10px 10px 0 10px;
 }
 
 #footer_wrap {
@@ -15,7 +21,8 @@ img {
 }
 
 .logo {
-  max-height: 200px;
+  width: 100%;
+  max-width: 375px;
 }
 
 nav {
