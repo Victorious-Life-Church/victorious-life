@@ -12,7 +12,7 @@ We are glad that you clicked just the right buttons to get here. Hope this page 
 A group of ordinary people pursuing an extraordinary God, because of something wonderful His son Jesus did. We enjoy each other, we laugh, sometimes we cry, but we always look for God to be involved in our lives.
 
 <ul id="slides">
-    <li class="slide showing"><img src="{{ '/images/service2.jpg' | relative_url }}" /></li>
+    <li class="slide showing"><img src="{{ '/images/service2.JPG' | relative_url }}" /></li>
     <li class="slide"><img src="{{ '/images/lobby1.jpg' | relative_url }}" /></li>
     <li class="slide"><img src="{{ '/images/service1.JPG' | relative_url }}" /></li>
     <li class="slide"><img src="{{ '/images/outside.jpg' | relative_url }}" /></li>
