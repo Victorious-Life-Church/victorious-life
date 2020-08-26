@@ -14,7 +14,7 @@ A group of ordinary people pursuing an extraordinary God, because of something w
 <ul id="slides">
     <li class="slide showing"><img src="{{ '/images/service2.jpg' | relative_url }}" /></li>
     <li class="slide"><img src="{{ '/images/lobby1.jpg' | relative_url }}" /></li>
-    <li class="slide"><img src="{{ '/images/service1.jpg' | relative_url }}" /></li>
+    <li class="slide"><img src="{{ '/images/service1.JPG' | relative_url }}" /></li>
     <li class="slide"><img src="{{ '/images/outside.jpg' | relative_url }}" /></li>
     <li class="slide"><img src="{{ '/images/lobby2.jpg' | relative_url }}" /></li>
 </ul>
