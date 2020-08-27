@@ -9,15 +9,19 @@ We are glad that you clicked just the right buttons to get here. Hope this page 
 
 ## Who we are:
 
+<div class="left">
+    <img src="{{ '/images/service2.JPG' | relative_url }}" />
+</div>
+
 A group of ordinary people pursuing an extraordinary God, because of something wonderful His son Jesus did. We enjoy each other, we laugh, sometimes we cry, but we always look for God to be involved in our lives.
 
-<ul id="slides">
+<!--<ul id="slides">
     <li class="slide showing"><img src="{{ '/images/service2.JPG' | relative_url }}" /></li>
     <li class="slide"><img src="{{ '/images/lobby1.jpg' | relative_url }}" /></li>
     <li class="slide"><img src="{{ '/images/service1.JPG' | relative_url }}" /></li>
     <li class="slide"><img src="{{ '/images/outside.jpg' | relative_url }}" /></li>
     <li class="slide"><img src="{{ '/images/lobby2.jpg' | relative_url }}" /></li>
-</ul>
+</ul>-->
 
 ## What a typical service might look like:
 
@@ -29,6 +33,10 @@ We have simple but powerful worship where we enjoy making God smile. Our pastor'
 
 ## Service Times
 
+<div class="left">
+    <img src="{{ '/images/lobby1.jpg' | relative_url }}" />
+</div>
+
 Sunday Morning 9:30am
 
 Also we will broadcasting our services live on:
@@ -36,6 +44,10 @@ Also we will broadcasting our services live on:
 <p><a href="http://www.facebook.com/vlcpo" target="_blank"><img src="images/facebook1.jpg"></a></p>
 
 ## Future Weeks
+
+<div class="left">
+    <img src="{{ '/images/service1.JPG' | relative_url }}" />
+</div>
 
 Daniel Bible Study Starting in September
 
