@@ -3,15 +3,14 @@ layout: default
 title: Victorious Life Church
 ---
 
-# Hello from Victorious Life Church
-
-We are glad that you clicked just the right buttons to get here. Hope this page is informative but in case you need more information feel free to email us
-
-
+# Hello from Victorious Life
 
 <div class="left">
     <img src="{{ '/images/lobby1.jpg' | relative_url }}" />
 </div>
+
+We are glad that you clicked just the right buttons to get here. Hope this page is informative but in case you need more information feel free to email us
+
 
 ## Service Times
 
