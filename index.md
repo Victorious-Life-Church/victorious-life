@@ -7,6 +7,18 @@ title: Victorious Life Church
 
 We are glad that you clicked just the right buttons to get here. Hope this page is informative but in case you need more information feel free to email us
 
+## Service Times
+
+<div class="left">
+    <img src="{{ '/images/lobby1.jpg' | relative_url }}" />
+</div>
+
+Sunday Morning 10:00am
+
+Also we will broadcasting our services live on:
+
+<p><a href="http://www.facebook.com/vlcpo" target="_blank"><img src="images/facebook1.jpg"></a></p>
+
 ## Who we are:
 
 <div class="left">
@@ -29,26 +41,21 @@ A group of ordinary people pursuing an extraordinary God, because of something w
     <img src="{{ '/images/service.jpg' | relative_url }}" />
 </div>
 
-We have simple but powerful worship where we enjoy making God smile. Our pastor's wife usually shares some adventure of the past week and a few prayer points to focus on. We encourage generosity in giving and faithfulness in His tithing. We have monthly communion to remember the life of Jesus. Our pastor shares practical, applicable, and transparent messages that will challenge us to pursue God. At the end of each service there is an opportunity for prayer. We usually end with a few stories in the lobby between meeting new friends. Hope you get a chance to experience this wonderful church.
+We have simple but powerful worship where we enjoy making God smile. Our pastor's wife usually shares some adventure of the past week and a few prayer points to focus on. We encourage generosity in giving and faithfulness in His tithing. We celebate monthly communion to remember the life of Jesus. Our pastor shares practical, applicable, and transparent messages that will challenge us to continue our pursue after God. At the end of each service there is an opportunity for prayer. We usually end with a few stories in the lobby between meeting new friends. We hope you get a chance to experience this wonderful church.
 
-## Service Times
 
-<div class="left">
-    <img src="{{ '/images/lobby1.jpg' | relative_url }}" />
-</div>
 
-Sunday Morning 9:30am
-
-Also we will broadcasting our services live on:
-
-<p><a href="http://www.facebook.com/vlcpo" target="_blank"><img src="images/facebook1.jpg"></a></p>
-
-## Future Weeks
+# Future Weeks
 
 <div class="left">
     <img src="{{ '/images/service1.JPG' | relative_url }}" />
 </div>
 
-Daniel Bible Study Starting in September
-
+New service times starting in September
+Sunday morning 9am Book Study
+Sunday morning 10am Worhsip Service
 Thursday Night prayer for our city 7pm
+
+Thursday 9/17 Hosting Special service with Rabbi Boris Goldin
+
+Sunday 9/27 Special Speaker Bob Fisher both morning and Special evening Service
