@@ -19,7 +19,7 @@ Sunday Morning 10:00am
 
 Also we will broadcasting our services live on:
 
-<p><a href="http://www.facebook.com/vlcpo" target="_blank"><img src="images/facebook1.jpg"></a></p>
+<p> align="center" <a href="http://www.facebook.com/vlcpo" target="_blank"><img src="images/facebook1.jpg"></a></p>
 
 ## Who we are:
 
