@@ -51,10 +51,12 @@ We have simple but powerful worship where we enjoy making God smile. Our pastor'
     <img src="{{ '/images/service1.JPG' | relative_url }}" />
 </div>
 
-New service times starting in September
+###New service times starting in September
 
 Sunday morning 9am Book Study
+
 Sunday morning 10am Worhsip Service
+
 Thursday Night prayer for our city 7pm
 
 Thursday 9/17 Hosting Special service with Rabbi Boris Goldin
