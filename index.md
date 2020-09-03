@@ -7,17 +7,19 @@ title: Victorious Life Church
 
 We are glad that you clicked just the right buttons to get here. Hope this page is informative but in case you need more information feel free to email us
 
-## Service Times
+
 
 <div class="left">
     <img src="{{ '/images/lobby1.jpg' | relative_url }}" />
 </div>
 
+## Service Times
+
 Sunday Morning 10:00am
 
 Also we will broadcasting our services live on:
 
-<p><a href="http://www.facebook.com/vlcpo" target="_blank"><img src="{{ '/images/facebook1.jpg' | relative_url }} />"></a></p>
+<p><a href="http://www.facebook.com/vlcpo" target="_blank"><img src="images/facebook1.jpg"></a></p>
 
 ## Who we are:
 
