@@ -36,7 +36,7 @@ A group of ordinary people pursuing an extraordinary God, because of something w
     <li class="slide"><img src="{{ '/images/lobby2.jpg' | relative_url }}" /></li>
 </ul>-->
 
-## What a typical service might look like:
+## A typical service might look like:
 
 <div class="left">
     <img src="{{ '/images/service.jpg' | relative_url }}" />
