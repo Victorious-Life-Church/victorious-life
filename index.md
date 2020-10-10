@@ -53,7 +53,7 @@ We have simple but powerful worship where we enjoy making God smile. Our pastor'
     <img src="{{ '/images/service1.JPG' | relative_url }}" />
 </div>
 
-### New service times starting in September
+### Weekly services and Events
 
 Sunday morning 9am Book Study
 
@@ -61,6 +61,12 @@ Sunday morning 10am Worhsip Service
 
 Thursday Night prayer for our city 7pm
 
-Thursday 9/17 Hosting Special service with Rabbi Boris Goldin
+Sunday 10/11 Special guest Missionary David and Sheryl Hughart
 
-Sunday 9/27 Special Speaker Bob Fisher both morning and Special evening Service
+Sunday 11/1 Men's bbq cookout 5pm
+
+Saturday 11/21 Thanksgiving VLC breakfast
+
+Sunday 11/22 Special Guest Natalie Barnoske youth alive missionary
+
+
