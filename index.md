@@ -55,18 +55,20 @@ We have simple but powerful worship where we enjoy making God smile. Our pastor'
 
 ### Weekly services and Events
 
-Sunday morning 9am Book Study
+Sunday morning 9am Book of Hebrews Study 
 
 Sunday morning 10am Worhsip Service
 
-Thursday Night prayer for our city 7pm
+Thursday Night prayer 7pm
 
-Sunday 10/11 Special guest Missionary David and Sheryl Hughart
+Sunday 11/15 Testimoney Sunday and New members
 
-Sunday 11/1 Men's bbq cookout 5pm
+Sunday 11/21 Thanksgiving VLC breakfast
 
-Saturday 11/21 Thanksgiving VLC breakfast
+Saturday 11/22 Special Guest Natalie Barnoske youth alive missionary
 
-Sunday 11/22 Special Guest Natalie Barnoske youth alive missionary
+Sunday 11/26  No service (Happy thanksgiving)
+
+
 
 
