@@ -61,10 +61,6 @@ Sunday morning 10am Worhsip Service
 
 Thursday Night prayer 7pm
 
-Sunday 11/15 Testimoney Sunday and New members
-
-Sunday 11/21 Thanksgiving VLC breakfast
-
 Saturday 11/22 Special Guest Natalie Barnoske youth alive missionary
 
 Sunday 11/26  No service (Happy thanksgiving)
