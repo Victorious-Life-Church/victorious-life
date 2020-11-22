@@ -65,6 +65,6 @@ Saturday 11/22 Special Guest Natalie Barnoske youth alive missionary
 
 Sunday 11/26  No service (Happy thanksgiving)
 
-
+12/6 Start Jesus Joy Series
 
 
