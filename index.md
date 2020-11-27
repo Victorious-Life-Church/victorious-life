@@ -59,12 +59,27 @@ Sunday morning 9am Book of Hebrews Study
 
 Sunday morning 10am Worhsip Service
 
-Thursday Night prayer 7pm
 
-Saturday 11/22 Special Guest Natalie Barnoske youth alive missionary
+Sunday morning 11/27 Vessels for the king
 
-Sunday 11/26  No service (Happy thanksgiving)
+Thursday 7pm 12/3 Seaside Hope cards (sharing the gift of Christmas through written words)
 
-12/6 Start Jesus Joy Series
+Sunday morning 12/6 Cookie Exchange (make 2 dozen of your favorite cookies to exchange with others)
+
+Thursday 12/10 Seaside Hope cards prayed for and finished
+
+Sunday morning 12/13 VLC Kids Christmas Service
+
+Thursday 12/17 VLC Annual Christmas Party
+
+Sunday morning 12/20 Special Christmas offering challange (youth,kids,women,men)
+
+Thursday 12/24 VLC Community candel light service on the front lawn
+
+Sunday morning 12/27 Seeing 2020 with Jesus vision
+
+Thursday 12/31 Bring the new year in with friends as VLC offers open houses
+
+2021 will be the year of extreme focus as we look to the One.
 
 
