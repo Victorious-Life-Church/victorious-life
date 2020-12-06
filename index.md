@@ -60,13 +60,8 @@ Sunday morning 9am Book of Hebrews Study
 Sunday morning 10am Worhsip Service
 
 
-Sunday morning 11/27 Vessels for the king
 
-Thursday 7pm 12/3 Seaside Hope cards (sharing the gift of Christmas through written words)
-
-Sunday morning 12/6 Cookie Exchange (make 2 dozen of your favorite cookies to exchange with others)
-
-Thursday 12/10 Seaside Hope cards prayed for and finished
+Thursday 12/10 Seaside Hope cards and Christmas Carroling 6pm
 
 Sunday morning 12/13 VLC Kids Christmas Service
 
