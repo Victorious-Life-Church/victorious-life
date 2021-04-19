@@ -62,13 +62,6 @@ Thursday Men's study 6pm
 Sunday morning 10am Worhsip Service
 
 
-
-Thursday 12/24 VLC Community candel light service on the front lawn
-
-Sunday morning 12/27 Seeing 2020 with Jesus vision
-
-Thursday 12/31 Bring the new year in with friends as VLC offers open houses
-
-2021 will be the year of extreme focus as we look to the One.
+2021 will be the year of extreme focus Scripture we hear "Joshua 1:9"
 
 
