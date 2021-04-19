@@ -55,19 +55,13 @@ We have simple but powerful worship where we enjoy making God smile. Our pastor'
 
 ### Weekly services and Events
 
-Sunday morning 9am Book of Hebrews Study 
+Thursday Women's study 10am
+
+Thursday Men's study 6pm
 
 Sunday morning 10am Worhsip Service
 
 
-
-Thursday 12/10 Seaside Hope cards and Christmas Carroling 6pm
-
-Sunday morning 12/13 VLC Kids Christmas Service
-
-Thursday 12/17 VLC Annual Christmas Party
-
-Sunday morning 12/20 Special Christmas offering challange (youth,kids,women,men)
 
 Thursday 12/24 VLC Community candel light service on the front lawn
 
