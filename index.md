@@ -15,7 +15,7 @@ We are glad that you clicked just the right buttons to get here. Hope this page 
 
 ## Service Times
 
-Sunday Morning 10:00am
+Sunday Morning 9:00am or 11:00am
 
 Also we will broadcasting our services live on:
 
@@ -55,13 +55,9 @@ We have simple but powerful worship where we enjoy making God smile. Our pastor'
 
 ### Weekly services and Events
 
-Thursday Women's study 10am
-
-Thursday Men's study 6pm
-
-Sunday morning 10am Worhsip Service
+Thursday Evening Prayer 7pm
 
 
-2021 will be the year of extreme focus Scripture we hear "Joshua 1:9"
+2021 will be the year of extreme focus, The Scripture we heard was "Joshua 1:9"
 
 
