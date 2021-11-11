@@ -55,7 +55,7 @@ We have simple but powerful worship where we enjoy making God smile. Our pastor'
 
 ### Weekly services and Events
 
-Thursday Evening Prayer 7pm
+Thursday Evening Prayer 6pm
 
 
 2021 will be the year of extreme focus, The Scripture we heard was "Joshua 1:9"
