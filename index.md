@@ -15,11 +15,12 @@ We are glad that you clicked just the right buttons to get here. Hope this page 
 
 ## Service Times
 
-Sunday Morning 9:00am or 11:00am
+Sunday Mornings 11:00am
 
 Also we will broadcasting our services live on:
 
 <p align="center"> <a href="http://www.facebook.com/vlcpo" target="_blank"><img src="images/facebook1.jpg"></a></p>
+<p align="center"> <a href="https://www.youtube.com/channel/UCdQG0CLc2vmIP5MMuHg0fDg)" target="_blank"><img src="images/youtube.png"></a></p>
 
 ## Who we are:
 
@@ -58,6 +59,6 @@ We have simple but powerful worship where we enjoy making God smile. Our pastor'
 Thursday Evening Prayer 6pm
 
 
-2021 will be the year of extreme focus, The Scripture we heard was "Joshua 1:9"
+2022 Is the year of advancement, The Scripture we heard was "Luke 1:37 NIV"
 
 
