@@ -59,6 +59,6 @@ We have simple but powerful worship where we enjoy making God smile. Our pastor'
 Thursday Evening Prayer 6pm
 
 
-2022 Is the year of advancement, The Scripture we heard was "Luke 1:37 NIV"
+2023 Is the year of expance, The Scripture we heard was "Isaiah 1:19"
 
 
