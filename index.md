@@ -15,7 +15,7 @@ We are glad that you clicked just the right buttons to get here. Hope this page 
 
 ## Service Times
 
-Sunday Mornings 11:00am
+Sunday Mornings 10:00am
 
 Also we will broadcasting our services live on:
 
@@ -44,7 +44,7 @@ A group of ordinary people pursuing an extraordinary God, because of something w
     <img src="{{ '/images/service.jpg' | relative_url }}" />
 </div>
 
-We have simple but powerful worship where we enjoy making God smile. Our pastor's wife usually shares some adventure of the past week and a few prayer points to focus on. We encourage generosity in giving and faithfulness in His tithing. We celebate monthly communion to remember the life of Jesus. Our pastor shares practical, applicable, and transparent messages that will challenge us to continue our pursue after God. At the end of each service there is an opportunity for prayer. We usually end with a few stories in the lobby between meeting new friends. We hope you get a chance to experience this wonderful church.
+We have simple but powerful worship where we enjoy making God smile. Our pastor's wife usually shares some adventure of the past week and a few prayer points to focus on. We encourage generosity in giving and faithfulness in His tithing. We celebate communion regularly, to remember the life of Jesus. Our pastor shares practical, applicable, and transparent messages that will challenge us to continue our pursue after God. At the end of each service there is an opportunity for prayer. We usually end with a few stories in the lobby between meeting new friends. We hope you get a chance to experience this wonderful church.
 
 
 
