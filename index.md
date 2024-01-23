@@ -44,7 +44,7 @@ A group of ordinary people pursuing an extraordinary God, because of something w
     <img src="{{ '/images/service.jpg' | relative_url }}" />
 </div>
 
-We have simple but powerful worship where we enjoy making God smile. Our pastor's wife usually shares some adventure of the past week and a few prayer points to focus on. We encourage generosity in giving and faithfulness in His tithing. We celebate communion regularly, to remember the life of Jesus. Our pastor shares practical, applicable, and transparent messages that will challenge us to continue our pursue after God. At the end of each service there is an opportunity for prayer. We usually end with a few stories in the lobby between meeting new friends. We hope you get a chance to experience this wonderful church.
+We have simple but powerful worship where we enjoy making God smile. Our pastor's wife usually shares some adventure of the past week and a few prayer points to focus on. We encourage generosity in giving and faithfulness in His tithing. We celebate communion regularly, to remember the death  of Jesus. Our pastor shares practical, applicable, and transparent messages that will challenge us to continue our pursue after God. At the end of each service there is an opportunity for prayer. We usually end with a few stories in the lobby between meeting new friends. We hope you get a chance to experience this wonderful church.
 
 
 
@@ -59,6 +59,6 @@ We have simple but powerful worship where we enjoy making God smile. Our pastor'
 Thursday Evening Prayer 6pm
 
 
-2023 Is the year of expance, The Scripture we heard was "Isaiah 1:19"
+2024 Is the year of equiping, The Scripture we heard was "Romans 11:36"
 
 
