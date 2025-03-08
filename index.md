@@ -55,10 +55,11 @@ We have simple but powerful worship where we enjoy making God smile. Our pastor'
 </div>
 
 ### Weekly services and Events
-
+Sunday morning Worship 10am
+The Bible on current topics Sunday evenings 5pm
 Sunday Evening Prayer Service 6pm
 
 
-2024 Is the year of equiping, The Scripture we heard was "Romans 11:36"
+2025 Is the year of growth, The Scripture we heard was "Psalms 33:4"
 
 
