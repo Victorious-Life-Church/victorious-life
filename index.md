@@ -56,7 +56,7 @@ We have simple but powerful worship where we enjoy making God smile. Our pastor'
 
 ### Weekly services and Events
 
-Thursday Evening Prayer 6pm
+Sunday Evening Prayer Service 6pm
 
 
 2024 Is the year of equiping, The Scripture we heard was "Romans 11:36"
