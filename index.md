@@ -28,7 +28,7 @@ Also we will broadcasting our services live on:
     <img src="{{ '/images/service2.JPG' | relative_url }}" />
 </div>
 
-A group of ordinary people pursuing an extraordinary God, because of something wonderful His son Jesus did. We enjoy each other, we laugh, sometimes we cry, but we always look for God to be involved in our lives.
+A group of ordinary people pursuing an extraordinary God, because of something wonderful His son Jesus did. We enjoy each other, we laugh, sometimes we cry, but we always look for God to be involved in our lives. Simply put we are a Church that Loves what He Loves.
 
 <!--<ul id="slides">
     <li class="slide showing"><img src="{{ '/images/service2.JPG' | relative_url }}" /></li>
@@ -44,7 +44,7 @@ A group of ordinary people pursuing an extraordinary God, because of something w
     <img src="{{ '/images/service.jpg' | relative_url }}" />
 </div>
 
-We have simple but powerful worship where we enjoy making God smile. Our pastor's wife usually shares some adventure of the past week and a few prayer points to focus on. We encourage generosity in giving and faithfulness in His tithing. We celebate communion regularly, to remember the death  of Jesus. Our pastor shares practical, applicable, and transparent messages that will challenge us to continue our pursue after God. At the end of each service there is an opportunity for prayer. We usually end with a few stories in the lobby between meeting new friends. We hope you get a chance to experience this wonderful church.
+We have a powerful worship where we enjoy making God smile. Our pastor's wife usually shares some adventure of the past week and a few prayer points to focus on. We encourage generosity in giving and faithfulness in His tithing, as we are a generous church to over 16 missionaries across the planet. We celebrate communion regularly, to remember the Lord. Our pastor shares practical and transparent messages that will challenge us to continue our pursue after God. At the end of each service there is an opportunity for prayer. We usually end with a few stories in the lobby between meeting new friends. We hope you get a chance to experience this wonderful church.
 
 
 
@@ -56,8 +56,8 @@ We have simple but powerful worship where we enjoy making God smile. Our pastor'
 
 ### Weekly services and Events
 Sunday morning Worship 10am
-The Bible on current topics Sunday evenings 5pm
-Sunday Evening Prayer Service 6pm
+
+Sunday Evening services starting in Sept 2025 6pm
 
 
 2025 Is the year of growth, The Scripture we heard was "Psalms 33:4"
