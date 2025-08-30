@@ -24,7 +24,7 @@ Also we will broadcasting our services live on:
 <p align="center"> <a href="https://www.youtube.com/channel/UCdQG0CLc2vmIP5MMuHg0fDg)" target="_blank"><img src="images/youtube.png"></a></p>
 
 <div class="left">
-    <img src="{{ '/images/services.JPG' | relative_url }}" />
+    <img src="{{ '/images/services.jpg' | relative_url }}" />
 </div>
 
 
@@ -32,7 +32,7 @@ Also we will broadcasting our services live on:
 A group of ordinary people pursuing an extraordinary God, because of something wonderful His son Jesus did. We enjoy each other, we laugh, sometimes we cry, but we always look for God to be involved in our lives. Simply put we are a Church that Loves what He Loves.
 
 <div class="left">
-    <img src="{{ '/images/patioservice.JPG' | relative_url }}" />
+    <img src="{{ '/images/patioservice.jpg' | relative_url }}" />
 </div>
 
 ##What we do:
@@ -58,7 +58,7 @@ We have a powerful worship where we enjoy making God smile. Our pastor's wife us
 
 
 <div class="left">
-    <img src="{{ '/images/familynight.JPG' | relative_url }}" />
+    <img src="{{ '/images/familynight.jpg' | relative_url }}" />
 </div>
 
 
