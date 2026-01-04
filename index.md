@@ -72,8 +72,6 @@ Sunday evening services 6pm
 
 Tuesday cleaning and reflection 9-11am
 
-Wednesday morning Prayer 8-9am
-
 
 
 ### 2026 A year to "position ourselves"
