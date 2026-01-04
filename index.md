@@ -64,19 +64,19 @@ We have a powerful worship where we enjoy making God smile. Sometimes Pastor Daw
 
 
 
-### Weekly services and Events
+## Weekly services and events
 
-Sunday morning Worship 10am
+Sunday morning worship 10am
 
-Sunday Evening services 6pm
+Sunday evening services 6pm
 
-Tuesday
+Tuesday cleaning and reflection 9-11am
 
-Wednesday Morning Prayer 8am
+Wednesday morning Prayer 8-9am
 
 
 
-### 2026 Is the year we need to "position ourselves"
+### 2026 A year to "position ourselves"
 The Scripture comes from 2 Chronicles 20:17
 
 
