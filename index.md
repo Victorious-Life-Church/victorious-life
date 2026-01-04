@@ -54,7 +54,7 @@ We follow God's Spirit in giving, serving, and adventuring. In the Fall we have 
 
 ## A typical service might look like:
 
-We have a powerful worship where we enjoy making God smile. Our pastor's wife usually shares some adventure of the past week and a few prayer points to focus on. We encourage generosity in giving and faithfulness in His tithing, as we are a generous church to over 16 missionaries across the planet. We celebrate communion regularly, to remember the Lord. Our pastor shares practical and transparent messages that will challenge us to continue our pursue after God. At the end of each service there is an opportunity for prayer. We usually end with a few stories in the lobby between meeting new friends. We hope you get a chance to experience this wonderful church.
+We have a powerful worship where we enjoy making God smile. Sometimes Pastor Dawn Buker will share some adventure of the past week and a few prayer points to focus on. We encourage generosity in giving and faithfulness in His tithing, as we are a generous church to over 16 missionaries across the planet. We celebrate communion regularly, to remember the Lord. Our pastor shares practical and transparent messages that will challenge us to continue our pursue after God. At the end of each service there is an opportunity for prayer. We usually end with a few stories in the lobby between meeting new friends. We hope you get a chance to experience this wonderful church.
 
 
 <div class="left">
@@ -65,15 +65,18 @@ We have a powerful worship where we enjoy making God smile. Our pastor's wife us
 
 
 ### Weekly services and Events
+
 Sunday morning Worship 10am
 
-Sunday Evening services starting in Sept 2025 6pm
+Sunday Evening services 6pm
 
-Monday Night Prayer 6pm
+Tuesday
+
+Wednesday Morning Prayer 8am
 
 
 
-###2025 Is the year of growth 
-The Scripture we heard was "Psalms 33:4"
+### 2026 Is the year we need to "position ourselves"
+The Scripture comes from 2 Chronicles 20:17
 
 
