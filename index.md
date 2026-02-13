@@ -17,6 +17,7 @@ We are glad that you clicked just the right buttons to get here. Hope this page 
 ## Service Times
 
 Sunday Mornings 10:00am
+Sunday Evenings 6:00pm
 
 Also we will broadcasting our services live on:
 
@@ -35,7 +36,7 @@ A group of ordinary people pursuing an extraordinary God, because of something w
     <img src="{{ '/images/patioservice.jpg' | relative_url }}" />
 </div>
 
-##What we do:
+## What we do:
 We follow God's Spirit in giving, serving, and adventuring. In the Fall we have outdoor service, e host bbq for the neighbors, In the Summers we have Family VBS and Beach Services with ocean baptisms. Monthly men's breakfast meetings, weekly prayer times, and Even night services as the Spirit leads. He is moving and we try to keep up.
 
 
@@ -70,7 +71,7 @@ Sunday morning worship 10am
 
 Sunday evening services 6pm
 
-Tuesday cleaning and reflection 9-11am
+Tuesday morning reflection bible study 10-11am
 
 
 
